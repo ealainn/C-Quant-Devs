@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
-float main(){
-    return 1.0;
+int main(){
+    return 0;
 }
